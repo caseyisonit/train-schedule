@@ -1,0 +1,42 @@
+/*** text ***/
+.big-headline{
+	font-family: 'Anton', sans-serif;
+	font-size: 10vw;
+	text-align: left;
+	margin: 0px;
+	padding-left: 20px;
+	color: #FFF; 
+}
+h3, label, #train-table{
+	color: #FFF; 
+}
+.tag-line{
+	font-family: 'Anton', sans-serif;
+	text-align: left;
+	margin: 0px;
+	padding-left: 20px;
+	color: #FFF; 
+}
+
+/*** content ***/
+html, body {
+  height: 100%;
+}
+body{
+	background-image: url("images/connectwork.png");
+    background-repeat: repeat; 
+}
+
+.page-header{
+	margin-top: 0px;
+	margin-bottom: 30px;
+	border: 0px;
+	padding-top: 20px;
+	padding-left: 10px;
+	height: 200px;
+}
+
+/*** table ***/
+thead{
+	font-weight: bold;
+}
